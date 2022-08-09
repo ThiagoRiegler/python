@@ -6,3 +6,4 @@ if num1+num2==num3:
     print("Iguales")
 else:
     print("Distintos")
+    
